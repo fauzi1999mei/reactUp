@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/reactUp/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/reactUp/static/js/main.641e99bd.chunk.js",
+    "main.js.map": "/reactUp/static/js/main.641e99bd.chunk.js.map",
+    "runtime-main.js": "/reactUp/static/js/runtime-main.720d02ad.js",
+    "runtime-main.js.map": "/reactUp/static/js/runtime-main.720d02ad.js.map",
+    "static/css/2.d286e487.chunk.css": "/reactUp/static/css/2.d286e487.chunk.css",
+    "static/js/2.9511ae26.chunk.js": "/reactUp/static/js/2.9511ae26.chunk.js",
+    "static/js/2.9511ae26.chunk.js.map": "/reactUp/static/js/2.9511ae26.chunk.js.map",
+    "static/js/3.a8cc64d8.chunk.js": "/reactUp/static/js/3.a8cc64d8.chunk.js",
+    "static/js/3.a8cc64d8.chunk.js.map": "/reactUp/static/js/3.a8cc64d8.chunk.js.map",
+    "index.html": "/reactUp/index.html",
+    "static/css/2.d286e487.chunk.css.map": "/reactUp/static/css/2.d286e487.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/reactUp/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.9511ae26.chunk.js.LICENSE.txt": "/reactUp/static/js/2.9511ae26.chunk.js.LICENSE.txt",
+    "static/media/aceh.3df79d00.jpg": "/reactUp/static/media/aceh.3df79d00.jpg",
+    "static/media/baliFood.428b5b81.jpg": "/reactUp/static/media/baliFood.428b5b81.jpg",
+    "static/media/bandung.c07552ed.jpg": "/reactUp/static/media/bandung.c07552ed.jpg",
+    "static/media/iDontKnow.ac9ab5d0.jpg": "/reactUp/static/media/iDontKnow.ac9ab5d0.jpg",
+    "static/media/jakarta.ffe8db20.jpg": "/reactUp/static/media/jakarta.ffe8db20.jpg",
+    "static/media/jakartaFood.05725e76.jpg": "/reactUp/static/media/jakartaFood.05725e76.jpg",
+    "static/media/jakartaT.412dfbe5.jpg": "/reactUp/static/media/jakartaT.412dfbe5.jpg",
+    "static/media/jogjaT.cc1222e0.jpg": "/reactUp/static/media/jogjaT.cc1222e0.jpg",
+    "static/media/jogjakarta.b44e6193.jpg": "/reactUp/static/media/jogjakarta.b44e6193.jpg",
+    "static/media/logo.b8c45e3f.png": "/reactUp/static/media/logo.b8c45e3f.png",
+    "static/media/lombok.cbe3fcaf.jpg": "/reactUp/static/media/lombok.cbe3fcaf.jpg",
+    "static/media/lombokFood.44344ff4.jpg": "/reactUp/static/media/lombokFood.44344ff4.jpg",
+    "static/media/lombokT.8b29e1ec.jpg": "/reactUp/static/media/lombokT.8b29e1ec.jpg",
+    "static/media/mount.11927b23.jpg": "/reactUp/static/media/mount.11927b23.jpg",
+    "static/media/nick-fewings-vVkayXvZnwQ-unsplash.7d915a9c.jpg": "/reactUp/static/media/nick-fewings-vVkayXvZnwQ-unsplash.7d915a9c.jpg",
+    "static/media/sulawesi.1b9139fc.jpg": "/reactUp/static/media/sulawesi.1b9139fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.720d02ad.js",
+    "static/css/2.d286e487.chunk.css",
+    "static/js/2.9511ae26.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.641e99bd.chunk.js"
+  ]
+}
